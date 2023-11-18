@@ -1,0 +1,13 @@
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\bin\Debug\BelajarWindowsForm.exe.config
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\bin\Debug\BelajarWindowsForm.exe
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\bin\Debug\BelajarWindowsForm.pdb
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.csproj.AssemblyReference.cache
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.Properties.Resources.resources
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.csproj.GenerateResource.cache
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.csproj.CoreCompileInputs.cache
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.exe
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.pdb
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.MainRegister.resources
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.MainLogin.resources
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.MainDashboard.resources
+D:\Coding\C#\BelajarWindowsForm\BelajarWindowsForm\obj\Debug\BelajarWindowsForm.DataGridView.resources
